@@ -85,10 +85,14 @@ folder_path_save/
 ├── R12.png                  # Right rib 12 visualization
 ```
 
+GUI source code
+rib_gui2.zip holds source code projects that can run the GUI interface.
+
 Notes
 1. Ensure sufficient disk space for intermediate video files
 2. The YOLOv8 model should be trained specifically for rib detection
 3. Processing time varies with DICOM stack size (expect 10-30 minutes for typical studies)
 4. Optimal results require DICOM series with consistent slice spacing
 
-For questions or support, please contact [your contact information].
+
+

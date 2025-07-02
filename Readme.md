@@ -44,7 +44,7 @@ folder_path_save = 'your_path_3'        # Final image save directory
 2. Run the Main Script
 Execute the entire script to process the DICOM data through the complete pipeline:
 ```python
-python rib_processing.py
+python main.py
 ```
 
 Processing Pipeline
